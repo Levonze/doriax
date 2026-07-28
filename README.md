@@ -80,7 +80,7 @@ Doriax Engine combines a lightweight runtime with a modern desktop editor for cr
 - Integrated 2D and 3D physics via Box2D and Jolt Physics (bodies, shapes, and joints)
 - Spatial 3D audio, texture and shader pools, and multithreaded async resource loading
 
-## Platforms
+## Supported Platforms
 
 | Area | Support |
 | --- | --- |
@@ -106,11 +106,13 @@ The root project builds `doriax-editor`. On single-config generators the executa
 
 ## Documentation and Community
 
-- [Website](https://doriax.org)
-- [Discord](https://discord.gg/yXXDyJf3gT)
+- [Doriax Website](https://doriax.org)
+- [Doriax Documentation](https://docs.doriax.org)
+- [Doriax Discord](https://discord.gg/yXXDyJf3gT)
 
 ## Repository Layout
 
+- `project_manager/` - project manager, windows, interface
 - `editor/` - desktop editor, windows, tools, project generation, and export flow
 - `engine/` - runtime engine, platform layers, rendering, ECS, and project templates
 - `shadercompiler/` - shader compilation and translation tools
