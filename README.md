@@ -90,8 +90,10 @@ Doriax Engine combines a lightweight runtime with a modern desktop editor for cr
 | Scripting | Lua, C++ |
 
 ## Getting Started
+### Dowloading pre-built Binaries
 
-Download a prebuilt editor from [doriax.org](https://doriax.org/#download) or build from source:
+Download a prebuilt editor from [doriax.org/#download](https://doriax.org/#download)
+### Compiling from Source
 
 ```bash
 git clone https://github.com/doriaxengine/doriax.git
