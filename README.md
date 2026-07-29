@@ -112,7 +112,6 @@ The root project builds `doriax-editor`. On single-config generators the executa
 
 ## Repository Layout
 
-- `project_manager/` - project manager, windows, interface
 - `editor/` - desktop editor, windows, tools, project generation, and export flow
 - `engine/` - runtime engine, platform layers, rendering, ECS, and project templates
 - `shadercompiler/` - shader compilation and translation tools
